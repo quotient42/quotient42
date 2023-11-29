@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrim42&layout=compact&theme=tokyonight)
+![jrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrim42&show_icons=true&theme=tokyonight)
